@@ -2,7 +2,8 @@
 ### 🌊 Water Quality & Infrastructure Assessment  
 
 ## 📌 Project Overview  
-This project analyzes water quality, infrastructure improvements, and employee performance for water sources across various locations. Using SQL, we join and filter data across multiple tables to identify problematic sources, track project progress, and generate data-driven recommendations.  
+This project analyzes water quality, infrastructure improvements, and employee performance for water sources across various locations. Using SQL, we join and filter data across multiple tables to identify problematic sources, track project progress, and generate data-driven recommendations. 
+![Project Overview](images/Community.jpg)
 
 ## 🔍 Key Focus Areas  
 - Evaluating water sources based on pollution data  
